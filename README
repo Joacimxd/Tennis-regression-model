@@ -1,0 +1,2 @@
+In this proyect I built a linear regression model with a dataset that contains the statistics of the top 1000 tennis players in the world. 
+In this project I determine the feature variables to be the ones who have a greater score than 0.7 when building a one feature variable model with them. 
